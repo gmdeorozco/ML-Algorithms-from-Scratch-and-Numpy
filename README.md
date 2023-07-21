@@ -34,7 +34,7 @@ Contributions from the open-source community are highly encouraged! If you find 
 
 ## Getting Started
 
-1. Clone the repository: `[git clone https://github.com/gmdeorozco/ML-Algorithms-from-Scratch-and-Numpy.git](https://github.com/gmdeorozco/ML-Algorithms-from-Scratch-and-Numpy)`
+1. Clone the repository: `[git clone https://github.com/gmdeorozco/ML-Algorithms-from-Scratch-and-Numpy.git]`
 2. Navigate to the desired algorithm folder.
 3. Run the implementation of your choice.
 4. Experiment with example datasets and explore algorithm behavior.
